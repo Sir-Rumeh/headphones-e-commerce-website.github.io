@@ -267,6 +267,8 @@ section {
 
 .home {
 	min-height: 100vh;
+	max-width: 100%;
+	overflow-x: none;
 	display: flex;
 	align-items: center;
 	background: url(../images/home-img.jpg) no-repeat;
