@@ -88,3 +88,4 @@ function removeItem() {
 /**
  * REMOVE CART ITEMS END
  */
+console.log("testing");
