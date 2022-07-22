@@ -15,13 +15,16 @@ function cursor(e) {
 	mouseCursor.style.left = e.pageX + "px";
 }
 
+// expand cursor on click
 function clickAnimate() {
 	mouseCursor.classList.add("click-animate");
 }
+// stop mouse cursor anumation on mousemove again
 function stopAnimate() {
 	mouseCursor.classList.remove("click-animate");
 }
 
+// animate links on mousemove
 links.forEach((link) => {
 	link.addEventListener("mouseover", () => {
 		mouseCursor.classList.add("link-grow");
@@ -30,6 +33,7 @@ links.forEach((link) => {
 		mouseCursor.classList.remove("link-grow");
 	});
 });
+// handle input focus
 inputs.forEach((input) => {
 	input.addEventListener("focus", () => {
 		mouseCursor.classList.add("hidden");
