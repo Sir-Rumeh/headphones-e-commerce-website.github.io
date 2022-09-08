@@ -16,9 +16,9 @@
 // }
 
 // expand cursor on click
-// function clickAnimate() {
-// 	mouseCursor.classList.add("click-animate");
-// }
+function clickAnimate() {
+	mouseCursor.classList.add("click-animate");
+}
 // stop mouse cursor anumation on mousemove again
 function stopAnimate() {
 	mouseCursor.classList.remove("click-animate");
