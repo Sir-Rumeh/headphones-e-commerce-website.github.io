@@ -1,7 +1,7 @@
 /**
  * CUSTOM CURSOR
  */
-// const mouseCursor = document.querySelector(".custom-cursor");
+const mouseCursor = document.querySelector(".custom-cursor");
 const links = document.querySelectorAll("a");
 const inputs = document.querySelectorAll("input");
 
