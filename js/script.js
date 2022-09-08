@@ -6,7 +6,7 @@
 // const inputs = document.querySelectorAll("input");
 
 // window.addEventListener("mousemove", cursor);
-// window.addEventListener("click", clickAnimate);
+window.addEventListener("click", clickAnimate);
 window.addEventListener("mousemove", stopAnimate);
 
 function cursor(e) {
