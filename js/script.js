@@ -9,11 +9,11 @@
 // window.addEventListener("click", clickAnimate);
 // window.addEventListener("mousemove", stopAnimate);
 
-// function cursor(e) {
-// 	console.log(e);
-// 	mouseCursor.style.top = e.pageY + "px";
-// 	mouseCursor.style.left = e.pageX + "px";
-// }
+function cursor(e) {
+	console.log(e);
+	mouseCursor.style.top = e.pageY + "px";
+	mouseCursor.style.left = e.pageX + "px";
+}
 
 // expand cursor on click
 function clickAnimate() {
