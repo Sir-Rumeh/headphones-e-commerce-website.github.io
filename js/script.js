@@ -20,9 +20,9 @@
 // 	mouseCursor.classList.add("click-animate");
 // }
 // stop mouse cursor anumation on mousemove again
-// function stopAnimate() {
-// 	mouseCursor.classList.remove("click-animate");
-// }
+function stopAnimate() {
+	mouseCursor.classList.remove("click-animate");
+}
 
 // animate links on mousemove
 links.forEach((link) => {
