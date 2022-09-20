@@ -557,11 +557,11 @@ section {
 	row-gap: 5.5rem;
 }
 
-.blogs .box-container .box {
+/* .blogs .box-container .box {
 	text-align: center;
 	border: var(--border);
 	padding: 2rem;
-}
+} */
 @media (min-width: 960px) {
 	.blogs .box-container .box {
 		width: 46rem;
