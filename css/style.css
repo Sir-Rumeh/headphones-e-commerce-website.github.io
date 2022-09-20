@@ -568,11 +568,11 @@ section {
 	}
 } */
 
-/* @media (min-width: 960px) {
+@media (min-width: 960px) {
 	.blogs .box-container .box {
 		width: 43rem;
 	}
-} */
+}
 
 .blogs .box-container .box .image {
 	height: 25rem;
