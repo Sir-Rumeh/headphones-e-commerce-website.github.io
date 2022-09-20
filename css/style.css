@@ -529,11 +529,11 @@ section {
 	border: var(--border);
 }
 
-/* .contact .row form .inputBox span {
+.contact .row form .inputBox span {
 	color: #fff;
 	font-size: 2rem;
 	padding-left: 2rem;
-} */
+}
 
 .contact .row form .inputBox input {
 	width: 100%;
