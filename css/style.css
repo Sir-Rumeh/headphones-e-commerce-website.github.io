@@ -520,14 +520,14 @@ section {
 	color: #fff;
 }
 
-/* .contact .row form .inputBox {
+.contact .row form .inputBox {
 	display: flex;
 	align-items: center;
 	margin-top: 2rem;
 	margin-bottom: 2rem;
 	background: var(--bg);
 	border: var(--border);
-} */
+}
 
 .contact .row form .inputBox span {
 	color: #fff;
