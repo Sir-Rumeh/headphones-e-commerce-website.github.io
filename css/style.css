@@ -543,11 +543,11 @@ section {
 	text-transform: none;
 	background: none;
 }
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
 	.blogs .heading {
 		width: 40rem;
 	}
-}
+} */
 
 .blogs .box-container {
 	display: grid;
