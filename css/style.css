@@ -535,14 +535,14 @@ section {
 	padding-left: 2rem;
 }
 
-/* .contact .row form .inputBox input {
+.contact .row form .inputBox input {
 	width: 100%;
 	padding: 2rem;
 	font-size: 1.7rem;
 	color: #fff;
 	text-transform: none;
 	background: none;
-} */
+}
 /* @media (max-width: 768px) {
 	.blogs .heading {
 		width: 40rem;
