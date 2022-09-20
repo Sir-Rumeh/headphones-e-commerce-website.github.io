@@ -562,11 +562,11 @@ section {
 	border: var(--border);
 	padding: 2rem;
 }
-@media (min-width: 960px) {
+/* @media (min-width: 960px) {
 	.blogs .box-container .box {
 		width: 46rem;
 	}
-}
+} */
 
 /* @media (min-width: 960px) {
 	.blogs .box-container .box {
