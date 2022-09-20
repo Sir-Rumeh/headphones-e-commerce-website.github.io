@@ -549,13 +549,13 @@ section {
 	}
 } */
 
-/* .blogs .box-container {
+.blogs .box-container {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
 	-moz-column-gap: 12rem;
 	column-gap: 12rem;
 	row-gap: 5.5rem;
-} */
+}
 
 .blogs .box-container .box {
 	text-align: center;
