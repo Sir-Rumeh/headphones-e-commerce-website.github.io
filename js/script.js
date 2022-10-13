@@ -12,7 +12,7 @@
 function cursor(e) {
 	console.log(e);
 	mouseCursor.style.top = e.pageY + "px";
-	// mouseCursor.style.left = e.pageX + "px";
+	mouseCursor.style.left = e.pageX + "px";
 }
 
 // expand cursor on click
