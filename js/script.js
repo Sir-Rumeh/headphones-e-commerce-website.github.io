@@ -11,7 +11,7 @@
 
 function cursor(e) {
 	// console.log(e);
-	mouseCursor.style.top = e.pageY + "px";
+	// mouseCursor.style.top = e.pageY + "px";
 	mouseCursor.style.left = e.pageX + "px";
 }
 
