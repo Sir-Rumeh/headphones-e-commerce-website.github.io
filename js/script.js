@@ -7,7 +7,7 @@
 
 // window.addEventListener("mousemove", cursor);
 // window.addEventListener("click", clickAnimate);
-window.addEventListener("mousemove", stopAnimate);
+// window.addEventListener("mousemove", stopAnimate);
 
 function cursor(e) {
 	console.log(e);
