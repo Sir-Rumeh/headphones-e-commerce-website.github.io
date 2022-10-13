@@ -5,7 +5,7 @@
 // const links = document.querySelectorAll("a");
 // const inputs = document.querySelectorAll("input");
 
-// window.addEventListener("mousemove", cursor);
+window.addEventListener("mousemove", cursor);
 window.addEventListener("click", clickAnimate);
 window.addEventListener("mousemove", stopAnimate);
 
