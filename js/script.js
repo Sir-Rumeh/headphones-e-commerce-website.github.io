@@ -10,7 +10,7 @@
 // window.addEventListener("mousemove", stopAnimate);
 
 function cursor(e) {
-	console.log(e);
+	// console.log(e);
 	mouseCursor.style.top = e.pageY + "px";
 	mouseCursor.style.left = e.pageX + "px";
 }
