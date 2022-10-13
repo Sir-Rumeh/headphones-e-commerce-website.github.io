@@ -3,7 +3,7 @@
  */
 // const mouseCursor = document.querySelector(".custom-cursor");
 // const links = document.querySelectorAll("a");
-const inputs = document.querySelectorAll("input");
+// const inputs = document.querySelectorAll("input");
 
 window.addEventListener("mousemove", cursor);
 window.addEventListener("click", clickAnimate);
